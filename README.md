@@ -99,7 +99,7 @@ flowchart LR
 
 ## Destaques de engenharia
 
-Trechos reais do projeto, escolhidos para mostrar decisões de design — não o app inteiro.
+Trechos reais do projeto, escolhidos para mostrar decisões de design — não o app inteiro. Os mesmos trechos também estão como arquivos isolados em [`/trechos`](./trechos), se preferir ver o código direto.
 
 ### 1. Validação de CPF sem dependência externa
 
